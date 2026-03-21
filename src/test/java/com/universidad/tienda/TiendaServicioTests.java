@@ -2,7 +2,6 @@ package com.universidad.tienda;
 
 import com.universidad.tienda.adapter.*;
 import com.universidad.tienda.composite.*;
-import com.universidad.tienda.servicio.TiendaServicio;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
