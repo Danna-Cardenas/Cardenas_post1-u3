@@ -1,4 +1,4 @@
-package decorater;
+package decorator;
 
 import java.time.LocalDateTime;
 public class AuditoriaDecorator extends OrdenServicioDecorator {

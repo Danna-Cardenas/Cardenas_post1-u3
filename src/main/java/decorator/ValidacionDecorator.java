@@ -1,4 +1,4 @@
-package decorater;
+package decorator;
 
 public class ValidacionDecorator extends OrdenServicioDecorator {
     private static final double MONTO_MINIMO = 1000.0;

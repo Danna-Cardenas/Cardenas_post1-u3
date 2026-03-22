@@ -1,4 +1,4 @@
-package decorater;
+package decorator;
 
 public class LoggingDecorator extends OrdenServicioDecorator {
     public LoggingDecorator(OrdenServicio wrapped) { super(wrapped); }

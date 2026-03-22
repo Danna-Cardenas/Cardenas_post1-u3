@@ -1,4 +1,4 @@
-package decorater;
+package decorator;
 
 import org.springframework.stereotype.Component;
 @Component("ordenBase")
